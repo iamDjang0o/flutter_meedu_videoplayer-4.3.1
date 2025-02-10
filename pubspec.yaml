@@ -26,8 +26,7 @@ dependencies:
   fullscreen_window: ^1.0.4
   # video_player_cross_platform:
   #    path: ../../video_player_cross_platform
-  fvp: 
-    git: https://github.com/iamDjang0o/fvp-fork.git
+  fvp: ^0.29.0
   # fvp:
   #   git: https://github.com/wang-bin/fvp
   # fvp:

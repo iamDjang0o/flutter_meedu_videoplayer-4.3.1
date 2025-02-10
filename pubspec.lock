@@ -147,11 +147,10 @@ packages:
   fvp:
     dependency: "direct main"
     description:
-      path: "."
-      ref: HEAD
-      resolved-ref: c00c302da4d8e5c867565dfe00c62ebd5550622d
-      url: "https://github.com/iamDjang0o/fvp-fork.git"
-    source: git
+      name: fvp
+      sha256: ad134b93f6400edd93e674ee15b9d365d0227b7fb1f013ac60f0dc601d387c78
+      url: "https://pub.dev"
+    source: hosted
     version: "0.29.0"
   html:
     dependency: transitive
@@ -648,4 +647,4 @@ packages:
     version: "6.5.0"
 sdks:
   dart: ">=3.4.0 <4.0.0"
-  flutter: ">=3.27.1"
+  flutter: ">=3.19.0"
